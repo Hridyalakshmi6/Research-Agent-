@@ -1,2 +1,2 @@
-streamlit==1.28.0
-arxiv==1.4.6
+streamlit
+arxiv
